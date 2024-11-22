@@ -5,7 +5,7 @@ Welcome to my repository dedicated to the **Master in AI Engineering** with **Pr
 ## Repository Structure
 
 The structure of the repository is as follows: <br>
-Each module of the Master program has its own subfolder, which contains my **significant exercises** and **final project** for that module.
+Each module of the Master program has its own subfolder, which contains my **significant exercises** and **final project** for that module. <br>
 Each final project is intended to put into practice knowledge and skills acquired from each module by applying them to a real-life use case.
 
 ## Module Descriptions:

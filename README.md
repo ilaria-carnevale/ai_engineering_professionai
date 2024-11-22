@@ -1,6 +1,6 @@
 # Master in AI Engineering - Profession.ai
 
-Welcome to my repository dedicated to the **Master in AI Engineering** with **Profession.ai**. This repository contains all the main topics, exercises, and final projects I have developed and completed each course module.
+Welcome to my repository dedicated to the **Master in AI Engineering** with **Profession.ai**. <br> This repository contains all the main topics, exercises, and final projects I have developed and completed each course module.
 
 ## Repository Structure
 

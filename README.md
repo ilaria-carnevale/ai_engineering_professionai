@@ -8,9 +8,9 @@ The structure of the repository is as follows:
 Each module of the Master program has its own subfolder, which contains my **significant exercises** and **final project** for that module.
 Each final project is intended to put into practice knowledge and skills acquired from each module by applying them to a real-life use case.
 
-### Module Descriptions:
+## Module Descriptions:
 
-## Module 1: Programmazione con Python
+### Module 1: Programmazione con Python
 - Variabili e tipi di dati
 - Collezioni di dati
 - Istruzioni condizionali
@@ -25,5 +25,5 @@ Each final project is intended to put into practice knowledge and skills acquire
 
 Progetto finale: **Software di una rubrica di contatti con Python**
 
-## Module 2: 
+### Module 2: 
 

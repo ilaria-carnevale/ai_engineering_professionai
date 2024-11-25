@@ -4,7 +4,6 @@ Welcome to my repository dedicated to the **Master Course in AI Engineering** wi
 
 ## Repository Structure
 
-The structure of the repository is as follows: <br>
 The Masters Course consists of 11 total modules. <br>
 Each module includes a **final project** for that module. <br>
 Each **final project** is intended to put into practice **knowledge and skills** acquired in each module by applying them to a real-life use case. <br>

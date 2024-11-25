@@ -6,7 +6,7 @@ Welcome to my repository dedicated to the **Master Course in AI Engineering** wi
 
 The Masters Course consists of 11 total modules. Each module includes a **final project**. <br>
 The **final projects** aim to put into practice **knowledge and skills** acquired during the course by applying them to a real-life use case. <br>
-This repository collects all my projects. The file name indicates both the module and the project name.
+This repository collects all my projects. The file name indicates both the module number and the project name.
 
 
 ## Module Descriptions:

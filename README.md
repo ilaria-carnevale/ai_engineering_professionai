@@ -2,6 +2,8 @@
 
 Welcome to my repository dedicated to the **Master Course in AI Engineering** with **ProfessionAI**. <br> This repository contains all the **final projects** I have developed as part of the course, showcasing the knowledge and skills acquired in each module.
 
+---
+
 ## Repository Structure
 
 The course consists of **11 modules**, each ending with a **final project** that applies the concepts learned to a practical, real-world use case. <br>
@@ -9,6 +11,7 @@ The repository is structured as follows:
 - Each module has its own folder, named with the module number and topic.
 - Inside each folder, you will find the corresponding project, named with the project's title.
 
+---
 
 ## Module Descriptions and Final Projects:
 
@@ -29,7 +32,9 @@ Topics covered:
 Final Project: **A contact address book software using Python**
 
 ### Module 2: 
+(_Description will be added upon completion._)
 
+---
 
 ## How to Navigate This Repository
 1. Explore the folders for each module to view the final projects.
@@ -41,5 +46,7 @@ Final Project: **A contact address book software using Python**
 ## About the Course
 This Master's course provides the skills and knowledge required to become a proficient AI Engineer, capable of developing and implementing advanced AI systems. <br>
 Throughout the course, I am learning how to create algorithms, models, and systems that can autonomously analyze data, make predictions, recognize patterns, and make decisions. By combining software engineering, machine learning, and data science, I am gaining the skills needed to design and implement AI solutions for real-world challenges, preparing to contribute to innovative projects in a dynamic field. <br>
+
+---
 
 Feel free to explore, fork, and reach out if you have questions or feedback! 😊

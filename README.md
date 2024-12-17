@@ -49,4 +49,4 @@ Throughout the course, I am learning how to create algorithms, models, and syste
 
 ---
 
-Feel free to explore, fork, and reach out if you have questions or feedback! 😊
+Feel free to explore and reach out if you have questions or feedback! 😊

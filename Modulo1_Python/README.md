@@ -13,5 +13,5 @@ This repository contains the `.ipynb` file developed for **Module 1 - Programmin
 
 ---
 
-The project and all its contents are written in **Italian**.
+The project and all its contents are written in **Italian**.<br>
 The notebook is organized to ensure clarity and accessibility for anyone reviewing the project. Feel free to explore the code and reach out if you have any questions or feedback!

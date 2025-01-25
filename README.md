@@ -15,7 +15,7 @@ The repository is structured as follows:
 
 ## Module Descriptions and Final Projects:
 
-### Module 1: Programmazione con Python
+### Module 1: Programming with Python
 Topics covered:
 - Variables and data types
 - Data collections
@@ -31,8 +31,23 @@ Topics covered:
 
 Final Project: **A contact address book software using Python**
 
-### Module 2: 
-(_Description will be added upon completion._)
+### Module 2: Programming with C/C++
+Topics covered:
+- Variables and data types
+- Pointers
+- Containers
+- Execution control: if, switch, while, for
+- Procedural programming
+- File access
+- Struct
+- Namespaces
+- Object-Oriented Programming (OOP)
+- Communication between C, C++ and Python
+
+Final Project: **CRM for an insurance company**
+
+### Module 3: Machine Learning
+(_The file will be updated with the progress of the master._)
 
 ---
 

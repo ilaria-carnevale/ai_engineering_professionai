@@ -31,6 +31,7 @@ Topics covered:
 
 Final Project: **A contact address book software using Python**
 
+
 ### Module 2: Programming with C/C++
 Topics covered:
 - Variables and data types
@@ -45,6 +46,7 @@ Topics covered:
 - Communication between C, C++ and Python
 
 Final Project: **CRM for an insurance company**
+
 
 ### Module 3: Machine Learning
 (_The file will be updated with the progress of the master._)

@@ -55,14 +55,14 @@ Final Project: **CRM for an insurance company**
 
 ## How to Navigate This Repository
 1. Explore the folders for each module to view the final projects.
-2. Open the .ipynb files, developed in Google Colab, to see the full, interactive implementation of each project.
+2. Open the applications, developed in Google Colab or Microsoft Visual Studio Code, to see the complete, interactive implementation of each project.
 3. Refer to the README in individual folders for additional details about specific modules or projects.
 
 ---
 
 ## About the Course
 This Master's course provides the skills and knowledge required to become a proficient AI Engineer, capable of developing and implementing advanced AI systems. <br>
-Throughout the course, I am learning how to create algorithms, models, and systems that can autonomously analyze data, make predictions, recognize patterns, and make decisions. By combining software engineering, machine learning, and data science, I am gaining the skills needed to design and implement AI solutions for real-world challenges, preparing to contribute to innovative projects in a dynamic field. <br>
+Throughout the course, I am learning how to create algorithms, models, and systems that can autonomously analyze data, make predictions, recognize patterns, and make decisions. By combining software engineering, machine learning and deep learning, I am gaining the skills needed to design and implement AI solutions for real-world challenges, preparing to contribute to innovative projects in a dynamic field. <br>
 
 ---
 

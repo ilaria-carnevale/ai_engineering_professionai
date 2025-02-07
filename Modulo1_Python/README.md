@@ -1,4 +1,4 @@
-# Module 1 Project - Programming with Python
+# Module 1 Project - Software for contact book
 
 This repository contains the `.ipynb` file developed for **Module 1 - Programming with Python**. The notebook is structured as follows:
 

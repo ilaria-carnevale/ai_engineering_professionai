@@ -3,7 +3,7 @@
 This repository contains the `.cpp` file developed for **Module 2 - Programming with C/C++**. The software is structured as follows:
 
 1. **OOP structure**:  
-The code is organised into classes: Interaction, Appointment, Contract, Client, CRM), following OOP principles. This makes the code modular and easy to extend.
+The code is organised into classes: Interaction, Appointment, Contract, Client and CRM, following OOP principles. This makes the code modular and easy to extend.
 
 2. **Interaction Management**:  
 Interaction management (appointments and contracts) is implemented by using a list to store the interactions associated with each client ID.

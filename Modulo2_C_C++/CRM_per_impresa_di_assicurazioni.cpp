@@ -359,7 +359,7 @@ string normalize_date(const string& input_date){
         snprintf(norm_array, sizeof(norm_array), "%02d-%02d-%04d", day, month, year);
         normalized_date = norm_array;
     } else {
-        // Se la data non è valida, restituisci una stringa vuota
+        //se data non è valida restituisce stringa vuota
         normalized_date = "";
     }
 

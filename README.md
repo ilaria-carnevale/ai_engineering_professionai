@@ -76,7 +76,7 @@ Topics covered:
 Final Project: **Predictive Model for the Real Estate Market**
 
 
-### Module 4: Machine Learning Models and Algorithms
+### Module 4: Machine Learning Algorithms
 (_The file will be updated with the progress of the master._)
 
 ---

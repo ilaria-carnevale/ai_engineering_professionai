@@ -48,7 +48,35 @@ Topics covered:
 Final Project: **CRM for an insurance company**
 
 
-### Module 3: Machine Learning
+### Module 3: Machine Learning Foundations
+Topics covered:
+- Structured and unstructured data
+- Dataset operations with Pandas
+- Dataset operations with NumPy
+- Data preprocessing: ordinal encoding, one-hot encoding, imputation of missing data
+- Data preprocessing: normalization, standardization
+- Linear Regression operations with Scikit-learn
+- Simple, Multiple and Polynomial Linear Regression
+- Linear Regression evaluation metrics: MSE, RMSE, MAE, R²
+- Correlation matrix with Seaborn
+- Overfitting: hold-out and cross-validation
+- Ridge (L2), Lasso (L1) and Elastic Net (L1+L2) regularizations
+- Learning curves
+- Classification operations with Scikit-learn
+- Binary and multiclass classification
+- Logistic Regression
+- Decision Boundaries
+- Confusion Matrix
+- Classification evaluation metrics: accuracy, precision, recall, F1-score
+- ROC and AUC curves
+- Clustering operations with Scikit-learn
+- K-means algorithm
+- Clustering evaluation metrics: inertia, distortion, elbow method
+
+Final Project: **Predictive Model for the Real Estate Market**
+
+
+### Module 4: Machine Learning Models and Algorithms
 (_The file will be updated with the progress of the master._)
 
 ---

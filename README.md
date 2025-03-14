@@ -48,7 +48,7 @@ Topics covered:
 Final Project: **CRM for an insurance company**
 
 
-### Module 3: Machine Learning Foundations
+### Module 3: Machine Learning Models
 Topics covered:
 - Structured and unstructured data
 - Dataset operations with Pandas

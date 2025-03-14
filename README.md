@@ -53,7 +53,7 @@ Topics covered:
 - Structured and unstructured data
 - Dataset operations with Pandas
 - Dataset operations with NumPy
-- Data preprocessing: ordinal encoding, one-hot encoding, imputation of missing data
+- Data preprocessing: ordinal and one-hot encoding, imputation of missing data
 - Data preprocessing: normalization, standardization
 - Linear Regression operations with Scikit-learn
 - Simple, Multiple and Polynomial Linear Regression

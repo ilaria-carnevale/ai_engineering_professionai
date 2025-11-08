@@ -83,7 +83,7 @@ Topics covered:
 - Naive Bayes classifiers (Gaussian, Bernoulli, Multinomial, Complement, Categorical)
 - Support Vector Machines and kernel methods (linear, polynomial, RBF, sigmoid)
 - Multilayer Perceptron for classification
-- Nearest‑Neighbor methods (KNN, Radius Neighbors)
+- Nearest‑Neighbor models (KNN, Radius Neighbors)
 - Tree‑based algorithms (Decision Trees, Random Forests)
 - Intro to Neural Networks and activation functions (ReLU, step, tanh)
   

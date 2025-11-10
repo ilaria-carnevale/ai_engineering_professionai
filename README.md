@@ -66,14 +66,13 @@ Final Project: **Predictive Model for the Real Estate Market**
 
 ### Module 4: Advanced Machine Learning Algorithms
 Topics covered:
-- Optimization algorithms (Gradient Descent, SGD, Mini-Batch GD)
-- Parametric and non‑parametric models (Linear/Logistic Regression, K‑NN, Naive Bayes, SVM, Decision Trees, Random Forests, Neural Networks)
-- Naive Bayes classifiers (Gaussian, Bernoulli, Multinomial, Complement, Categorical)
-- Support Vector Machines and kernel methods (linear, polynomial, RBF, sigmoid)
-- Multilayer Perceptron for classification
-- Nearest‑Neighbor models (KNN, Radius Neighbors)
-- Tree‑based algorithms (Decision Trees, Random Forests)
-- Intro to Neural Networks and activation functions (ReLU, step, tanh)
+- Optimization algorithms: Gradient Descent, Stochastic Gradient Descent (SGD), Mini-Batch Gradient Descent
+- Parametric and non-parametric models: Linear/Logistic Regression, K-Nearest Neighbors, Naive Bayes, SVM, Decision Trees, Random Forests, Neural Networks
+- Naive Bayes classifiers: Gaussian, Bernoulli, Multinomial, Complement, Categorical
+- Support Vector Machines: linear and kernel methods (polynomial, RBF, sigmoid)
+- Nearest-Neighbor models: K-Nearest Neighbors, Radius Neighbors
+- Tree-based algorithms: Decision Trees, Random Forests
+- Intro to Neural Networks: Multilayer Perceptron (MLP) and activation functions (ReLU, step, tanh)
   
 Final Project: **Classification of exotic fruits**
 

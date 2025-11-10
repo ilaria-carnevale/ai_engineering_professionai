@@ -51,27 +51,15 @@ Final Project: **CRM for an insurance company**
 ### Module 3: Machine Learning Models
 Topics covered:
 - Structured and unstructured data
-- Dataset operations with Pandas
-- Dataset operations with NumPy
-- Data preprocessing: ordinal and one-hot encoding, imputation of missing data
-- Data preprocessing: normalization, standardization
-- Linear Regression operations with Scikit-learn
-- Simple, Multiple and Polynomial Linear Regression
-- Linear Regression evaluation metrics: MSE, RMSE, MAE, R²
-- Correlation matrix with Seaborn
-- Overfitting: hold-out and cross-validation
-- Ridge (L2), Lasso (L1) and Elastic Net (L1+L2) regularizations
-- Learning curves
-- Classification operations with Scikit-learn
-- Binary and multiclass classification
-- Logistic Regression
-- Decision Boundaries
-- Confusion Matrix
-- Classification evaluation metrics: accuracy, precision, recall, F1-score
-- ROC and AUC curves
-- Clustering operations with Scikit-learn
-- K-means algorithm
-- Clustering evaluation metrics: inertia, distortion, elbow method
+- Dataset operations with Pandas and NumPy
+- Data preprocessing: encoding (ordinal, one-hot), imputation of missing values, normalization, standardization
+- Regression models: simple, multiple, and polynomial Linear Regression with Scikit-learn
+- Model evaluation: MSE, RMSE, MAE, R², correlation matrix with Seaborn
+- Regularization: Ridge (L2), Lasso (L1), Elastic Net (L1+L2)
+- Model validation: hold-out, cross-validation, learning curves, overfitting control
+- Classification models: binary and multiclass classification, Logistic Regression, decision boundaries
+- Classification evaluation: confusion matrix, accuracy, precision, recall, F1-score, ROC and AUC curves
+- Clustering models: K-means algorithm and evaluation metrics (inertia, distortion, elbow method)
 
 Final Project: **Predictive Model for the Real Estate Market**
 

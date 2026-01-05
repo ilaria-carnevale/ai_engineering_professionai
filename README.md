@@ -86,13 +86,13 @@ Topics covered:
 - Neural network training: forward pass, loss functions, backpropagation, gradient descent, batch size, epochs, learning rate
 - Optimization techniques: learning rate scheduling, momentum, adaptive optimizers such as Adam
 - Training issues and mitigation: vanishing and exploding gradients, weight initialization, gradient clipping, batch normalization
-- Computer Vision fundamentals: image data as tensors, supervised classification, ML vs DL feature extraction
+- Computer Vision fundamentals: image data as tensors, supervised classification, machine learning vs deep learning feature extraction
 - Convolutional Neural Networks (CNN): convolution, kernels, stride, padding, pooling, weight sharing
 - CNN architectures and training: feature extraction pipeline, flattening, hierarchical visual features
-- Transfer learning in Computer Vision: ImageNet pretraining, layer freezing, fine tuning
+- Transfer learning in Computer Vision: ImageNet pretraining, layer freezing, fine-tuning
 - Recurrent Neural Networks (RNN): sequential data modeling, many-to-one, one-to-many, many-to-many tasks
 - Text representations: Bag of Words, word embeddings
-- Advanced RNN architectures: LSTM, GRU
+- Advanced RNN architectures: Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU)
 - Hybrid deep architectures: CNN-LSTM, LSTM-CNN, ConvLSTM
 - Optical Character Recognition (OCR): CNN for spatial features, bidirectional RNN, CTC loss
 - Transformers and attention: information bottleneck, attention mechanism

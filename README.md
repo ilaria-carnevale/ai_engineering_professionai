@@ -77,7 +77,33 @@ Topics covered:
 Final Project: **Classification of exotic fruits**
 
 
-### Module 5: MLOps
+### Module 5: Deep Learning and Artificial Neural Networks
+Topics covered:
+- Deep learning libraries: NumPy and Pandas for data handling, Scikit-learn for baseline models, TensorFlow and Keras for deep neural networks, PyTorch overview
+- Artificial Neural Networks basics: biological inspiration and differences, neurons, weighted connections, forward propagation, parameters vs hyperparameters
+- Perceptron and Multilayer Perceptron (MLP): historical perceptron, input hidden and output layers, shallow vs deep networks, dense fully connected architectures
+- Activation functions: step function limits, sigmoid, tanh, ReLU, Leaky ReLU, softmax for multiclass outputs
+- Training neural networks: forward pass, loss functions, backpropagation, gradient descent intuition, batch size, epochs, learning rate
+- Optimization strategies: learning rate scheduling, momentum, adaptive optimizers such as Adam, best practices for stable training
+- Training problems and mitigation: vanishing and exploding gradients, weight initialization, gradient clipping, batch normalization
+- Introduction to Computer Vision: image data as tensors, supervised image classification, feature extraction in machine learning versus deep learning
+- Convolutional Neural Networks (CNN): convolution, kernels, activation maps, stride, padding, pooling operations, weight sharing, translation invariance
+- CNN architectures and training: feature extraction and classification pipeline, flattening, hierarchical visual features
+- Transfer learning in Computer Vision: ImageNet pretraining, freezing layers, fine tuning for target tasks
+- Recurrent Neural Networks (RNN): sequential data modeling, many-to-one, one-to-many, many-to-many tasks, Backpropagation Through Time
+- Text representations: Bag of Words limitations, word embeddings, dense semantic representations
+- Advanced recurrent architectures: LSTM for long term dependencies, GRU for efficient sequence modeling
+- Hybrid deep architectures: CNN RNN combinations, CNN-LSTM, LSTM-CNN, ConvLSTM for spatio-temporal data
+- Optical Character Recognition (OCR): CNN for spatial features, bidirectional RNN for sequences, CTC loss
+- Transformers and attention mechanism: encoder decoder limitation, attention as solution to information bottleneck
+- Transformer architecture: encoder-only, decoder-only, encoder-decoder models, multi-head-self-attention
+- Transfer learning in NLP: pretraining, domain adaptation, fine tuning, downstream tasks
+- State of the art NLP models: BERT encoder only architecture, GPT decoder only architecture
+
+Final Project: **Animal recognition for autonomous driving**
+
+
+### Module 6:
 (_The file will be updated with the progress of the master._)
 
 ---

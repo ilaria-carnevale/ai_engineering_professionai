@@ -80,25 +80,22 @@ Final Project: **Classification of exotic fruits**
 ### Module 5: Deep Learning and Artificial Neural Networks
 Topics covered:
 - Deep learning libraries: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
-- Artificial Neural Networks basics: biological inspiration, neurons, weighted connections, parameters vs hyperparameters
-- Perceptron and Multilayer Perceptron (MLP): perceptron model, input hidden output layers, shallow vs deep networks
-- Activation functions: step, sigmoid, tanh, ReLU, Leaky ReLU, softmax
-- Neural network training: forward pass, loss functions, backpropagation, gradient descent, batch size, epochs, learning rate
-- Optimization techniques: learning rate scheduling, momentum, adaptive optimizers such as Adam
-- Training issues and mitigation: vanishing and exploding gradients, weight initialization, gradient clipping, batch normalization
-- Computer Vision fundamentals: image data as tensors, supervised classification, machine learning vs deep learning feature extraction
-- Convolutional Neural Networks (CNN): convolution, kernels, stride, padding, pooling, weight sharing
-- CNN architectures and training: feature extraction pipeline, flattening, hierarchical visual features
-- Transfer learning in Computer Vision: ImageNet pretraining, layer freezing, fine-tuning
-- Recurrent Neural Networks (RNN): sequential data modeling, many-to-one, one-to-many, many-to-many tasks
-- Text representations: Bag of Words, word embeddings
-- Advanced RNN architectures: Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU)
-- Hybrid deep architectures: CNN-LSTM, LSTM-CNN, ConvLSTM
-- Optical Character Recognition (OCR): CNN for spatial features, bidirectional RNN, CTC loss
-- Transformers and attention: information bottleneck, attention mechanism
-- Transformer architecture: encoder-only, decoder-only, encoder-decoder, multi-head self-attention
-- Transfer learning in NLP: pretraining, domain adaptation, fine tuning
-- NLP transformer models: BERT encoder-only, GPT decoder-only
+- Artificial Neural Networks (ANN): neurons, layers, parameters and hyperparameters
+- Perceptron and Multilayer Perceptron (MLP)
+- Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, softmax
+- Neural network training: forward pass, loss functions, backpropagation, gradient descent
+- Optimization techniques: learning rate scheduling, momentum, Adam
+- Training challenges: vanishing/exploding gradients, weight initialization, batch normalization
+- Computer Vision fundamentals and image classification
+- Convolutional Neural Networks (CNN): convolutions, pooling, feature extraction
+- Transfer learning and fine-tuning with pre-trained models
+- Recurrent Neural Networks (RNN), LSTM and GRU
+- Text representations: Bag of Words and word embeddings
+- Hybrid architectures: CNN-LSTM and ConvLSTM
+- Optical Character Recognition (OCR)
+- Transformers and attention mechanisms
+- Transformer architectures: encoder-only, decoder-only, encoder-decoder
+- NLP transformer models: BERT and GPT
 
 Final Project: **Animal recognition for autonomous driving**
 
